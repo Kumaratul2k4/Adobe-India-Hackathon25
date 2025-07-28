@@ -38,6 +38,8 @@ In a world flooded with documents, what wins is not more content — it's contex
 
 ## 📋 Challenge 1a: PDF Document Structure Extractor
 
+🔗 [View Challenge 1a Code](https://github.com/Kumaratul2k4/Adobe-India-Hackathon25/tree/main/adobe-hackathon-1a)
+
 <div align="center">
 <img src="./assets/workflow.svg" width="700" alt="PDF Processing Workflow">
 </div>
@@ -80,6 +82,8 @@ A high-performance, containerized solution for extracting structured data from P
 ---
 
 ## 🧠 Challenge 1b: Persona-Driven Document Intelligence
+
+🔗 [View Challenge 1b Code](https://github.com/Kumaratul2k4/Adobe-India-Hackathon25/tree/main/adobe-hackathon-1b)
 
 <div align="center">
 <img src="./assets/pdf_workflow_diagram.svg" alt="PDF Analysis System" width="600">
