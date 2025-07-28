@@ -69,7 +69,7 @@ adobe-hackathon-1b/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kumaratul2k4/Adobe-India-Hackathon25.git
 cd adobe-hackathon-1b
 ```
 
