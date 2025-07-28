@@ -141,7 +141,7 @@ build_and_run.bat
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Kumaratul2k4/Adobe-India-Hackathon25.git
 cd adobe-hackathon-1b
 
 # Install dependencies
